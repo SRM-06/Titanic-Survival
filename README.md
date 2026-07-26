@@ -23,5 +23,5 @@ This project predicts whether a passenger survived the Titanic disaster using ma
 The Random Forest model achieved better accuracy than Logistic Regression.
 
 ## Files
-- Titanic_Survival_Prediction.ipynb – Main notebook
+- V_Titanic_Survival.ipynb – Main notebook
 - requirements.txt – Python dependencies
